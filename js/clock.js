@@ -6,5 +6,6 @@ const ddigitalClock = document.getElementById("digitalClock")
 digitalClock.appendChild(myNode);
 myNode.innerHTML = "Welcome";
 
+
 // end code
 })();
