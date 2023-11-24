@@ -8,6 +8,7 @@ myNode.innerHTML = "Welcome";
 // get time
 const myDate = new Date();
 console.dir(myDate);
+myNode.innerHTML = myDate.toDateString();
 
 // end code
 })();
